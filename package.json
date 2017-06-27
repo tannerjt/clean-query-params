@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Removes query parameters with empty values",
   "main": "index.js",
+  "bin": {
+    "clean-query-params": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
