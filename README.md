@@ -1,7 +1,7 @@
 # clean-query-params
 
 I often find myself needing to send URL's based on some kinds of an
-API call.  If you are generating the URL through some kinds of API
+API call.  If you are generating the URL through some kind of API
 generator, you will most likely get a bunch of query parameters that
 you are not using.  This is a common occurence when generating URL's for
 queries to ArcGIS Server.
