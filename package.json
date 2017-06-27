@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Removes query parameters with empty values",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tannerjt/clean-query-params"
+  },
   "bin": {
     "clean-query-params": "./index.js"
   },
